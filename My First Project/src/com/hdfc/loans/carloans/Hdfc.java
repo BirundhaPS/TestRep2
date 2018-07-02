@@ -13,12 +13,12 @@ public class Hdfc implements Rbi{
 
 	@Override
 	public void withdrawl() {
-		System.out.println("Withdrawl Amount");
+		System.out.println("Print Withdrawl Amount");
 			}
 
 	@Override
 	public void deposit() {
-		System.out.println("Deposit Amount");
+		System.out.println("Print Deposit Amount");
 	}
 
 }
